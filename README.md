@@ -9,7 +9,7 @@ This repository contains 2 versions of the implementation:
 
 fsil_assignment: Submitted on May 7th, with complete code of RAG with Mistral, Pinecone for vectorization, and Ollama's enviornment, however, I lost the vectors due to disconnection of my GPU and couldn't finish the UI implementation. While the project demonstrates my coding capabilities, unforeseen time constraints hindered its completion. Despite near-perfect execution, an unexpected GPU disconnection prevented the visualization of insights and further insights extraction and also led toloss of my already executed code. To run everything again, especially vectorization would have taken me 2/3 hours more, which will exceed the dealine. If my exams didn't just end around 14 hours ago, I would have gotten a headstart. Given more time, I am confident in my ability to showcase the full potential of the project requirements and beyond.
 
-updated-and-finished: Submitted May 12th, with same code as submitted previously with vectors stored in Pinecone to avoid loss due to GPU constraints of google colab, and finished implementation with the UI. It's be my humble request if you could consider this implementation as it shows my complete project, working of the RAG model with Pinecone database and visualization techniques. 
+updated-and-finished: Submitted May 12th, with same code as submitted previously with vectors stored in Pinecone to avoid loss due to GPU constraints of google colab, and finished implementation with the UI. It's my humble request if you could consider this implementation as it shows my complete project, working of the RAG model with Pinecone database and visualization techniques, which I wasn't able to finish due to recent university final exams. 
 
 ## Features
 
