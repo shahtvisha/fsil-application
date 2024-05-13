@@ -42,7 +42,12 @@ updated-and-finished: Submitted May 12th, with same code as submitted previously
 ![image](https://github.com/shahtvisha/fsil-application/assets/91308439/440d8cf1-b59d-46a7-bbef-c78e5697c370)
 
 ## Streamlit User Interface
-Demo video is available in the asset folder
+Demo video available here: https://drive.google.com/file/d/1EzONuQYhMC2MjJuRb0nxhLDyTmtikOk7/view?usp=sharing
+![Screenshot (675)](https://github.com/shahtvisha/fsil-application/assets/91308439/4fddee1e-2330-49dc-b6f0-1e47b63a8399)
+![Screenshot (676)](https://github.com/shahtvisha/fsil-application/assets/91308439/798ee4f6-89bf-4dcf-9efa-e54c73ef50fe)
+![Screenshot (678)](https://github.com/shahtvisha/fsil-application/assets/91308439/91a40617-6032-4bec-8094-67af75f05f89)
+![Screenshot (679)](https://github.com/shahtvisha/fsil-application/assets/91308439/8fcf67a4-aca0-42f6-a86b-3de2299aa81a)
+
 
 ### Acknowledgement
 
