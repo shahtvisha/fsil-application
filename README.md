@@ -48,9 +48,10 @@ Demo video available here: https://drive.google.com/file/d/1EzONuQYhMC2MjJuRb0nx
 ![Screenshot (678)](https://github.com/shahtvisha/fsil-application/assets/91308439/91a40617-6032-4bec-8094-67af75f05f89)
 ![Screenshot (679)](https://github.com/shahtvisha/fsil-application/assets/91308439/8fcf67a4-aca0-42f6-a86b-3de2299aa81a)
 
+## Insights
+The visualization presents a comparative analysis of key financial data over multiple years, highlighting significant metrics such as operating revenues, expenses, income, and taxes. This graphical representation allows for easy interpretation of trends and fluctuations in financial performance over time. By visualizing these essential financial indicators, users can gain insights into the company's revenue generation, cost management, profitability, and tax obligations across different fiscal years. This comprehensive overview aids in decision-making processes related to investment, financial planning, and strategic management.
 
 ### Acknowledgement
 
 Thank you for considering my project. I assure you of my diligence and commitment to maximizing my capabilities given the opportunity.
 
-Code to google colab: https://colab.research.google.com/drive/1LK4ZmaZ5GBS82rdYA7M4oPNRSHSvXjQm?usp=sharing
