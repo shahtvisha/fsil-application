@@ -2,9 +2,7 @@
 
 ### Project Overview
 
-This project leverages Jupyter Notebook and PyCharm with Python and Streamlit to analyze data from T-Mobile, AT&T, and Verizon. These companies are pivotal players in the telecommunications industry, maintaining significance throughout technological evolution. The analysis delves into how these companies respond to risk, evaluating the effectiveness of their strategies. Understanding these responses not only fosters trust in the company's decision-making but also enables users to gauge the efficacy of their teams and decisions. Allowing users to understand risk factors, companies response and performace of their response will help users understand make an informed decision before investing and a greater perspective on a companies setback and strategies. 
-
-This project leverages a Retrieval-Augmented Generation (RAG) model with Pinecone for vector embeddings and integrates the Mistral local LLM through Ollama for enhanced query responses.
+This project leverages Jupyter Notebook and PyCharm with Python and Streamlit to analyze data from T-Mobile, AT&T, and Verizon. These companies are pivotal players in the telecommunications industry, maintaining significance throughout technological evolution. The analysis delves into how these companies respond to risk, evaluating the effectiveness of their strategies. Understanding these responses not only fosters trust in the company's decision-making but also enables users to gauge the efficacy of their teams and decisions. Allowing users to understand risk factors, companies response and performace of their response will help users understand make an informed decision before investing and a greater perspective on a companies setback and strategies. This project implements a Retrieval-Augmented Generation (RAG) model with Pinecone for vector embeddings and integrates the Mistral local LLM through Ollama for enhanced query responses.
 
 ## Features
 
